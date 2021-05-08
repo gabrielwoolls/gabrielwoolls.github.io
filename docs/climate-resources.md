@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: post
 title: Climate Resources
-permalink: /
+permalink: /climate-resources/
 ---
 A compilation of resources, organizations, articles and websites about the climate crisis. 
 
@@ -18,7 +18,7 @@ A compilation of resources, organizations, articles and websites about the clima
 - Raye Zaragoza (https://www.rayezaragoza.com/) -->
 
 **Blogs & Newsletters**
-- [Bill McKibben's Climate Crisis Newsletter at *The New Yorker*](https://www.newyorker.com/news/annals-of-a-warming-planet/welcome-to-the-climate-crisis-newsletter)
+- [Bill McKibben's Climate Crisis Newsletter](https://www.newyorker.com/news/annals-of-a-warming-planet/welcome-to-the-climate-crisis-newsletter)
 - [Azimuth Blog](https://www.azimuthproject.org/)
 
 
