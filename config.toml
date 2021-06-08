@@ -1,8 +1,8 @@
 title = "tantum quantum"
-baseURL = "https://example.com"
+baseURL = "https://tantumquantum.site"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "../resources"
+resourceDir = "./resources"
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
