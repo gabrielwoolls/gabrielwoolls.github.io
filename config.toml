@@ -1,8 +1,8 @@
 title = "tantum quantum"
-baseURL = "https://tantumquantum.site"
+baseURL = "//tantumquantum.site"
 languageCode = "en-us"
 theme = "ananke"
-resourceDir = "./resources"
+resourceDir = "/resources"
 publishDir = "docs"
 
 DefaultContentLanguage = "en"
@@ -27,7 +27,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
- 
   favicon = ""
   site_logo = ""
   description = "Physics, climate change, politics, maybe more"

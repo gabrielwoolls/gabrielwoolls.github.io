@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tantumquantum.site/categories/</loc>
+    <loc>//tantumquantum.site/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tantumquantum.site/fr/categories/"
+                href="//tantumquantum.site/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tantumquantum.site/categories/"
+                href="//tantumquantum.site/categories/"
                 />
   </url><url>
-    <loc>https://tantumquantum.site/tags/</loc>
+    <loc>//tantumquantum.site/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tantumquantum.site/fr/tags/"
+                href="//tantumquantum.site/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tantumquantum.site/tags/"
+                href="//tantumquantum.site/tags/"
                 />
   </url><url>
-    <loc>https://tantumquantum.site/</loc>
+    <loc>//tantumquantum.site/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tantumquantum.site/fr/"
+                href="//tantumquantum.site/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tantumquantum.site/"
+                href="//tantumquantum.site/"
                 />
   </url>
 </urlset>
