@@ -1,1 +1,0 @@
-# gabrielwoolls.github.io
